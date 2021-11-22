@@ -8,7 +8,7 @@ def Nationality(country):
     if(country=="germany"):
         print("Seig, Heil!!!")
     if(country=="spain"):
-        print("Catalonia is an independent country")
+        print("Catalonia is an independent country!")
     if(country=="france"):
         print("You bow to everyone, you fruit from", country)
     if(country=="uk"):
